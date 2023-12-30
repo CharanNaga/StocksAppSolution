@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stocks.UI", "Stocks.UI\Stocks.UI.csproj", "{05019B6E-810A-4E36-9557-A065F1C05E30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7C16BBE5-1BCF-4FA5-AB21-2AE13B202B4D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{234C1304-92D8-4429-8638-D450FC50BE5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05019B6E-810A-4E36-9557-A065F1C05E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05019B6E-810A-4E36-9557-A065F1C05E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05019B6E-810A-4E36-9557-A065F1C05E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05019B6E-810A-4E36-9557-A065F1C05E30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{05019B6E-810A-4E36-9557-A065F1C05E30} = {7C16BBE5-1BCF-4FA5-AB21-2AE13B202B4D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {844645E8-737A-4100-BCEF-6F6CEFF7799C}
+	EndGlobalSection
+EndGlobal
