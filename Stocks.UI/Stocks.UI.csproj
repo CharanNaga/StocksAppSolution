@@ -24,5 +24,8 @@
     <ProjectReference Include="..\Stocks.Core\Stocks.Core.csproj" />
     <ProjectReference Include="..\Stocks.Infrastructure\Stocks.Infrastructure.csproj" />
   </ItemGroup>
+	<ItemGroup>
+		<InternalsVisibleTo Include="Stocks.IntegrationTests"/>
+	</ItemGroup>
 
 </Project>
