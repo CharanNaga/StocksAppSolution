@@ -2,7 +2,6 @@
 using ServiceContracts.DTO;
 using Services;
 using Xunit.Abstractions;
-using Microsoft.EntityFrameworkCore;
 using Entities;
 using RepositoryContracts;
 using Moq;
